@@ -1,0 +1,608 @@
+"rss": {
+    "settings": [{
+            "cacheLastModified": "Wed, 20 Sep 2023 17:07:12 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696113085482e+12,
+            "offline": false,
+            "path": "http://officialandroid.blogspot.com/feeds/posts/default",
+            "refreshInterval": 1440,
+            "title": "Android",
+            "url": "http://officialandroid.blogspot.com/feeds/posts/default"
+        }, {
+            "errorCount": 6,
+            "lastChecked": 1.696113085944e+12,
+            "offline": false,
+            "path": "http://outerspace.terra.com.br/rss/outerspace.xml",
+            "refreshInterval": 1440,
+            "title": "Outer Space",
+            "url": "http://outerspace.terra.com.br/rss/outerspace.xml"
+        }, {
+            "errorCount": 6,
+            "lastChecked": 1.696113086094e+12,
+            "offline": false,
+            "path": "http://code.google.com/feeds/updates.xml",
+            "refreshInterval": 1440,
+            "title": "Google Developers",
+            "url": "http://code.google.com/feeds/updates.xml"
+        }, {
+            "errorCount": 5,
+            "lastChecked": 1.69608961219e+12,
+            "offline": false,
+            "path": "https://medium.freecodecamp.com/feed",
+            "refreshInterval": 1440,
+            "title": "freeCodeCamp.org",
+            "url": "https://medium.freecodecamp.com/feed"
+        }, {
+            "cacheETag": "\"fe6c621c8956cac12c6089889aaa27a7\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 15:52:42 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089613041e+12,
+            "offline": false,
+            "path": "http://nodeweekly.com/rss/1j9a0ll9",
+            "refreshInterval": 1440,
+            "title": "Node Weekly",
+            "url": "http://nodeweekly.com/rss/1j9a0ll9"
+        }, {
+            "cacheLastModified": "Wed, 27 Sep 2023 11:59:06 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089614026e+12,
+            "offline": false,
+            "path": "http://blogdoxbox.com/feed/",
+            "refreshInterval": 1440,
+            "title": "My Blog",
+            "url": "http://blogdoxbox.com/feed/"
+        }, {
+            "cacheETag": "W/\"0faaaf7b04756267b19344a9bd313d5c\"",
+            "errorCount": 0,
+            "lastChecked": 1.69608961457e+12,
+            "offline": false,
+            "path": "http://facebook.github.io/react/feed.xml",
+            "refreshInterval": 1440,
+            "title": "React",
+            "url": "http://facebook.github.io/react/feed.xml"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089615642e+12,
+            "offline": false,
+            "path": "http://codeascraft.etsy.com/feed/",
+            "refreshInterval": 1440,
+            "title": "Code as Craft",
+            "url": "http://codeascraft.etsy.com/feed/"
+        }, {
+            "cacheETag": "\"651825a3-4940f\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 13:41:55 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089618587e+12,
+            "offline": false,
+            "path": "http://planet.python.org/rss10.xml",
+            "refreshInterval": 1440,
+            "title": "Planet Python",
+            "url": "http://planet.python.org/rss10.xml"
+        }, {
+            "cacheLastModified": "Fri, 29 Sep 2023 17:35:47 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089619675e+12,
+            "offline": false,
+            "path": "http://feeds.feedburner.com/JavaCodeGeeks",
+            "refreshInterval": 1440,
+            "title": "Java Code Geeks",
+            "url": "http://feeds.feedburner.com/JavaCodeGeeks"
+        }, {
+            "cacheLastModified": "Fri, 29 Sep 2023 01:22:42 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089620937e+12,
+            "offline": false,
+            "path": "http://feeds.feedburner.com/blogspot/hsDu",
+            "refreshInterval": 1440,
+            "title": "Android Developers Blog",
+            "url": "http://feeds.feedburner.com/blogspot/hsDu"
+        }, {
+            "errorCount": 5,
+            "lastChecked": 1.696089623926e+12,
+            "offline": false,
+            "path": "http://thepracticaldev.com/feed",
+            "refreshInterval": 1440,
+            "title": "DEV Community",
+            "url": "http://thepracticaldev.com/feed"
+        }, {
+            "cacheETag": "\"df4c8a9ba36a82a3b9c064b44e368595\"",
+            "errorCount": 0,
+            "lastChecked": 1.696089624575e+12,
+            "offline": false,
+            "path": "http://spring.io/blog.atom",
+            "refreshInterval": 1440,
+            "title": "Spring",
+            "url": "http://spring.io/blog.atom"
+        }, {
+            "cacheETag": "W/\"66b7-60692d724146e-gzip\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 12:40:04 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089625559e+12,
+            "offline": false,
+            "path": "https://www.gamevicio.com/rss/noticias.xml",
+            "refreshInterval": 1440,
+            "title": "GameVicio - Ãltimas NotÃ­cias",
+            "url": "https://www.gamevicio.com/rss/noticias.xml"
+        }, {
+            "cacheETag": "\"c0db9f065bb1f76960d4b875b9882441\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 15:52:42 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089626469e+12,
+            "offline": false,
+            "path": "http://javascriptweekly.com/rss",
+            "refreshInterval": 1440,
+            "title": "JavaScript Weekly",
+            "url": "http://javascriptweekly.com/rss"
+        }, {
+            "cacheETag": "W/\"f5abc66a003dafc028cf90a3d07feb0b-gzip\"",
+            "cacheLastModified": "Fri, 15 Sep 2023 18:56:25 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089626914e+12,
+            "offline": false,
+            "path": "http://www.codeguru.com/icom_includes/feeds/codeguru/rss-all.xml",
+            "refreshInterval": 1440,
+            "title": "CodeGuru",
+            "url": "http://www.codeguru.com/icom_includes/feeds/codeguru/rss-all.xml"
+        }, {
+            "cacheLastModified": "Sat, 23 Sep 2023 20:48:43 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089627655e+12,
+            "offline": false,
+            "path": "http://feeds.feedburner.com/CssTricks",
+            "refreshInterval": 1440,
+            "title": "CSS-Tricks",
+            "url": "http://feeds.feedburner.com/CssTricks"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 16:00:27 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089628287e+12,
+            "offline": false,
+            "path": "http://www.codeproject.com/webservices/articlerss.aspx?cat=1",
+            "refreshInterval": 1440,
+            "title": "CodeProject",
+            "url": "http://www.codeproject.com/webservices/articlerss.aspx?cat=1"
+        }, {
+            "cacheLastModified": "Fri, 29 Sep 2023 20:04:14 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089630243e+12,
+            "offline": false,
+            "path": "http://www.eurogamer.pt/?format=rss",
+            "refreshInterval": 1440,
+            "title": "Eurogamer.pt",
+            "url": "http://www.eurogamer.pt/?format=rss"
+        }, {
+            "errorCount": 5,
+            "lastChecked": 1.696089631504e+12,
+            "offline": false,
+            "path": "http://www.clashroyaledicas.com/feeds/posts/default",
+            "refreshInterval": 1440,
+            "title": "Clash Royale Dicas",
+            "url": "http://www.clashroyaledicas.com/feeds/posts/default"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089632736e+12,
+            "offline": false,
+            "path": "http://news.ycombinator.com/rss",
+            "refreshInterval": 1440,
+            "title": "Hacker News",
+            "url": "http://news.ycombinator.com/rss"
+        }, {
+            "cacheETag": "W/\"63c9aecc-2b77a\"",
+            "cacheLastModified": "Thu, 19 Jan 2023 20:57:48 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089633003e+12,
+            "offline": false,
+            "path": "http://blog.cleancoder.com/atom.xml",
+            "refreshInterval": 1440,
+            "title": "The Clean Code Blog",
+            "url": "http://blog.cleancoder.com/atom.xml"
+        }, {
+            "cacheLastModified": "Fri, 29 Sep 2023 19:46:31 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089633959e+12,
+            "offline": false,
+            "path": "http://feeds.harvardbusiness.org/harvardbusiness/",
+            "refreshInterval": 1440,
+            "title": "Harvard Business Review",
+            "url": "http://feeds.harvardbusiness.org/harvardbusiness/"
+        }, {
+            "errorCount": 5,
+            "lastChecked": 1.696089635147e+12,
+            "offline": false,
+            "path": "http://blog.nodejs.org/feed/",
+            "refreshInterval": 1440,
+            "title": "Node.js Blog",
+            "url": "http://blog.nodejs.org/feed/"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089639541e+12,
+            "offline": false,
+            "path": "http://blog.golang.org/feeds/posts/default",
+            "refreshInterval": 1440,
+            "title": "The Go Blog",
+            "url": "http://blog.golang.org/feeds/posts/default"
+        }, {
+            "cacheETag": "W/\"851b3d6379fa52f8c021067514e6e6c8dd236f0d55fa60ce669d731aee4bfac6\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 10:00:59 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089640337e+12,
+            "offline": false,
+            "path": "http://www.aminhacasadigital.com/feeds/posts/default",
+            "refreshInterval": 1440,
+            "title": "A Minha Casa Digital",
+            "url": "http://www.aminhacasadigital.com/feeds/posts/default"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 15:23:32 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089641232e+12,
+            "offline": false,
+            "path": "http://feeds.feedburner.com/leak/jOFQ",
+            "refreshInterval": 1440,
+            "title": "Leak",
+            "url": "http://feeds.feedburner.com/leak/jOFQ"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089641529e+12,
+            "offline": false,
+            "path": "http://tek.sapo.pt/rss",
+            "refreshInterval": 1440,
+            "title": "SAPO Tek",
+            "url": "http://tek.sapo.pt/rss"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 14:38:20 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089642273e+12,
+            "offline": false,
+            "path": "http://feeds.feedburner.com/guiadopc",
+            "refreshInterval": 1440,
+            "title": "Guia do PC",
+            "url": "http://feeds.feedburner.com/guiadopc"
+        }, {
+            "errorCount": 5,
+            "lastChecked": 1.696089643135e+12,
+            "offline": false,
+            "path": "http://topics.nytimes.com/top/reference/timestopics/subjects/a/artificial_intelligence/?rss=1",
+            "refreshInterval": 1440,
+            "title": "New York Times - Artificial Intelligence",
+            "url": "http://topics.nytimes.com/top/reference/timestopics/subjects/a/artificial_intelligence/?rss=1"
+        }, {
+            "cacheLastModified": "Sat, 16 Sep 2023 10:57:12 GMT",
+            "errorCount": 1,
+            "lastChecked": 1.696089645012e+12,
+            "offline": false,
+            "path": "http://feeds2.feedburner.com/canaltechbr",
+            "refreshInterval": 1440,
+            "title": "Canaltech",
+            "url": "http://feeds2.feedburner.com/canaltechbr"
+        }, {
+            "cacheETag": "\"8a2e26662788070c73f94995da4a4372-gzip\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 15:10:18 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089645268e+12,
+            "offline": false,
+            "path": "http://pplware.sapo.pt/feed/",
+            "refreshInterval": 1440,
+            "title": "Pplware",
+            "url": "http://pplware.sapo.pt/feed/"
+        }, {
+            "cacheETag": "W/\"67a89a26cf4461110474d50035a25a8f\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 15:46:09 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089668759e+12,
+            "offline": false,
+            "path": "http://jovemnerd.ig.com.br/feed/",
+            "refreshInterval": 1440,
+            "title": "Jovem Nerd",
+            "url": "http://jovemnerd.ig.com.br/feed/"
+        }, {
+            "cacheETag": "W/\"d10584833a742f92ab9452337dc5ef75\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 11:38:05 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.69608967126e+12,
+            "offline": false,
+            "path": "http://www.manualdousuario.net/feed/",
+            "refreshInterval": 1440,
+            "title": "Manual do UsuÃ¡rio",
+            "url": "http://www.manualdousuario.net/feed/"
+        }, {
+            "cacheETag": "\"c3b6325d6b42e3cabb656c0e55351dc3-gzip\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 16:00:52 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089672051e+12,
+            "offline": false,
+            "path": "http://pplware.sapo.pt/category/smartphones/android/feed/",
+            "refreshInterval": 1440,
+            "title": "Android â Pplware",
+            "url": "http://pplware.sapo.pt/category/smartphones/android/feed/"
+        }, {
+            "cacheLastModified": "Mon, 26 Sep 2022 01:33:39 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089673372e+12,
+            "offline": false,
+            "path": "http://feeds.feedburner.com/blogdoiphone/rss",
+            "refreshInterval": 1440,
+            "title": "Blog do iPhone",
+            "url": "http://feeds.feedburner.com/blogdoiphone/rss"
+        }, {
+            "errorCount": 4,
+            "lastChecked": 1.696089674203e+12,
+            "offline": false,
+            "path": "http://www.techtudo.com.br/plantao/rss2.xml",
+            "refreshInterval": 1440,
+            "title": "Techtudo",
+            "url": "http://www.techtudo.com.br/plantao/rss2.xml"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 16:00:00 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089681733e+12,
+            "offline": false,
+            "path": "http://androidgeek.pt/feed/",
+            "refreshInterval": 1440,
+            "title": "AndroidGeek",
+            "url": "http://androidgeek.pt/feed/"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 14:17:40 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.69608968268e+12,
+            "offline": false,
+            "path": "http://feeds.feedburner.com/tecnoblog",
+            "refreshInterval": 1440,
+            "title": "Tecnoblog",
+            "url": "http://feeds.feedburner.com/tecnoblog"
+        }, {
+            "cacheETag": "W/\"e5ffe5e3a89a0c2aa14563af4334a863\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 15:03:18 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089682846e+12,
+            "offline": false,
+            "path": "http://www.pcguia.pt/feed/",
+            "refreshInterval": 1440,
+            "title": "PCGuia",
+            "url": "http://www.pcguia.pt/feed/"
+        }, {
+            "cacheETag": "\"ed16383de54497a071ee2800f4a0d645-gzip\"",
+            "cacheLastModified": "Sat, 16 Sep 2023 12:26:45 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089684727e+12,
+            "offline": false,
+            "path": "http://feeds2.feedburner.com/profissionaisti",
+            "refreshInterval": 1440,
+            "title": "Profissionais TI",
+            "url": "http://feeds2.feedburner.com/profissionaisti"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 15:43:57 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089685281e+12,
+            "offline": false,
+            "path": "http://feeds.jn.pt/JN-Nacional",
+            "refreshInterval": 1440,
+            "title": "Jornal de NotÃ­cias - Nacional",
+            "url": "http://feeds.jn.pt/JN-Nacional"
+        }, {
+            "cacheETag": "W/\"ae727cdb4d3ab56f5a133ee2cefef17d\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 15:57:19 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089685413e+12,
+            "offline": false,
+            "path": "http://observador.pt/feed/",
+            "refreshInterval": 1440,
+            "title": "Observador",
+            "url": "http://observador.pt/feed/"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 15:55:06 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089685906e+12,
+            "offline": false,
+            "path": "http://feeds.feedburner.com/sicnoticias-ultimas",
+            "refreshInterval": 1440,
+            "title": "SIC NotÃ­cias",
+            "url": "http://feeds.feedburner.com/sicnoticias-ultimas"
+        }, {
+            "errorCount": 4,
+            "lastChecked": 1.696089687201e+12,
+            "offline": false,
+            "path": "https://www.youtube.com/playlist?list=UUIfCVYzh4BoeRklgYcmVySA",
+            "refreshInterval": 1440,
+            "title": "A Cor Do Dinheiro (uploads) on YouTube",
+            "url": "https://www.youtube.com/playlist?list=UUIfCVYzh4BoeRklgYcmVySA"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089687924e+12,
+            "offline": false,
+            "path": "http://www.sabado.pt/rss.html",
+            "refreshInterval": 1440,
+            "title": "SÃBADO",
+            "url": "http://www.sabado.pt/rss.html"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089688985e+12,
+            "offline": false,
+            "path": "http://24.sapo.pt/feed",
+            "refreshInterval": 1440,
+            "title": "SAPO 24",
+            "url": "http://24.sapo.pt/feed"
+        }, {
+            "cacheETag": "\"236ba4e1d6c449f03c62f06cbab15173\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 16:00:01 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089690876e+12,
+            "offline": false,
+            "path": "http://economico.sapo.pt/rss/ultimas",
+            "refreshInterval": 1440,
+            "title": "O Jornal EconÃ³mico",
+            "url": "http://economico.sapo.pt/rss/ultimas"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 15:44:57 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089691202e+12,
+            "offline": false,
+            "path": "http://feeds.tsf.pt/TSF-Ultimas",
+            "refreshInterval": 1440,
+            "title": "TSF - Ãltimas NotÃ­cias - RSS",
+            "url": "http://feeds.tsf.pt/TSF-Ultimas"
+        }, {
+            "errorCount": 4,
+            "lastChecked": 1.696089691568e+12,
+            "offline": false,
+            "path": "http://www.tvi24.iol.pt/rss.html",
+            "refreshInterval": 1440,
+            "title": "TVI24",
+            "url": "http://www.tvi24.iol.pt/rss.html"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 16:01:16 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089691979e+12,
+            "offline": false,
+            "path": "http://services.sapo.pt/RSS/Feed/noticias/sapo_noticias/diario_de_noticias",
+            "refreshInterval": 1440,
+            "title": "noticias/sapo_noticias/diario_de_noticias",
+            "url": "http://services.sapo.pt/RSS/Feed/noticias/sapo_noticias/diario_de_noticias"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 15:44:52 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089692987e+12,
+            "offline": false,
+            "path": "http://feeds.feedburner.com/PublicoRSS",
+            "refreshInterval": 1440,
+            "title": "PÃBLICO",
+            "url": "http://feeds.feedburner.com/PublicoRSS"
+        }, {
+            "cacheETag": "W/\"53ddd37bdca01aa9d77c35f6a70421cc\"",
+            "cacheLastModified": "Fri, 29 Sep 2023 21:38:14 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089693591e+12,
+            "offline": false,
+            "path": "https://theintercept.com/feed/?lang=pt",
+            "refreshInterval": 1440,
+            "title": "The Intercept",
+            "url": "https://theintercept.com/feed/?lang=pt"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 15:38:09 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089694557e+12,
+            "offline": false,
+            "path": "http://feeds.dn.pt/DN-Ultimas",
+            "refreshInterval": 1440,
+            "title": "DiÃ¡rio de NotÃ­cias - Ãltimas",
+            "url": "http://feeds.dn.pt/DN-Ultimas"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089695795e+12,
+            "offline": false,
+            "path": "http://www.ionline.pt/rss.xml",
+            "refreshInterval": 1440,
+            "title": "Jornal i",
+            "url": "http://www.ionline.pt/rss.xml"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089696403e+12,
+            "offline": false,
+            "path": "http://www.jornaldenegocios.pt/funcionalidades/rss/generarRSS.php",
+            "refreshInterval": 1440,
+            "title": "Jornal de NegÃ³cios",
+            "url": "http://www.jornaldenegocios.pt/funcionalidades/rss/generarRSS.php"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 15:51:42 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089697005e+12,
+            "offline": false,
+            "path": "http://feeds.dinheirovivo.pt/DV-ultimas",
+            "refreshInterval": 1440,
+            "title": "Dinheiro Vivo - Ãltimas",
+            "url": "http://feeds.dinheirovivo.pt/DV-ultimas"
+        }, {
+            "errorCount": 6,
+            "lastChecked": 1.696089697239e+12,
+            "offline": false,
+            "path": "http://aeiou.expresso.pt/static/rss/expresso-geral.xml",
+            "refreshInterval": 1440,
+            "title": "Expresso",
+            "url": "http://aeiou.expresso.pt/static/rss/expresso-geral.xml"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089701914e+12,
+            "offline": false,
+            "path": "http://www.noticiasaominuto.com/rss/ultima-hora",
+            "refreshInterval": 1440,
+            "title": "NotÃ­cias ao Minuto - Ãltima Hora",
+            "url": "http://www.noticiasaominuto.com/rss/ultima-hora"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089703274e+12,
+            "offline": false,
+            "path": "https://poligrafo.sapo.pt/feed/",
+            "refreshInterval": 1440,
+            "title": "PolÃ­grafo",
+            "url": "https://poligrafo.sapo.pt/feed/"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.69608970352e+12,
+            "offline": false,
+            "path": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqnbDFdCpuN8CMEg0VuEBqA",
+            "refreshInterval": 1440,
+            "title": "The New York Times",
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqnbDFdCpuN8CMEg0VuEBqA"
+        }, {
+            "errorCount": 4,
+            "lastChecked": 1.696089704157e+12,
+            "offline": false,
+            "path": "http://exame.abril.com.br/rss/",
+            "refreshInterval": 1440,
+            "title": "Exame",
+            "url": "http://exame.abril.com.br/rss/"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 15:41:03 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089704627e+12,
+            "offline": false,
+            "path": "http://feeds.jn.pt/JN-ULTIMAS",
+            "refreshInterval": 1440,
+            "title": "Jornal de NotÃ­cias - Ãltimas NotÃ­cias",
+            "url": "http://feeds.jn.pt/JN-ULTIMAS"
+        }, {
+            "cacheLastModified": "Sat, 30 Sep 2023 16:01:47 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696089707819e+12,
+            "offline": false,
+            "path": "https://iqc.pt/portao/noticias-e-artigos-na-iqc?format=feed&type=rss",
+            "refreshInterval": 1440,
+            "title": "Todas as NotÃ­cias e Artigos",
+            "url": "https://iqc.pt/portao/noticias-e-artigos-na-iqc?format=feed&type=rss"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.696089708667e+12,
+            "offline": false,
+            "path": "http://www.cmjornal.xl.pt/rss.aspx",
+            "refreshInterval": 1440,
+            "title": "Correio da ManhÃ£",
+            "url": "http://www.cmjornal.xl.pt/rss.aspx"
+        }, {
+            "errorCount": 7,
+            "lastChecked": 1.696089708809e+12,
+            "offline": false,
+            "path": "http://expresso.sapo.pt/static/rss/economia_23413.xml",
+            "refreshInterval": 1440,
+            "title": "Expresso - Economia",
+            "url": "http://expresso.sapo.pt/static/rss/economia_23413.xml"
+        }, {
+            "errorCount": 0,
+            "lastChecked": 1.69611309861e+12,
+            "offline": false,
+            "path": "97d993d4-6d6e-4e96-a4ac-b2ca9b78affd",
+            "refreshInterval": 5,
+            "title": "hackers-arise - RSS",
+            "url": "https://www.hackers-arise.com/blog-feed.xml"
+        }, {
+            "cacheETag": "\"2318daacf8b29020fc398c7512d89082-gzip\"",
+            "cacheLastModified": "Sat, 30 Sep 2023 22:00:40 GMT",
+            "errorCount": 0,
+            "lastChecked": 1.696113038012e+12,
+            "offline": false,
+            "path": "54371b81-2b50-4d81-b0c8-a6bd9bcb7f28",
+            "refreshInterval": 5,
+            "title": "Pplware » Feed",
+            "url": "https://pplware.sapo.pt/feed/"
+        }
+    ],
+    "show_notifications": false
+}
